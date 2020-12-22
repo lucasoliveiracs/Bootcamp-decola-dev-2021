@@ -1,4 +1,4 @@
-<img src="img/1.jpg" align="right" width="300">
+<img src="1.jpg" align="right" width="300">
 
 ## Projeto/Exercício Curso de Programação para internet com javascript
 
