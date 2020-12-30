@@ -1,0 +1,16 @@
+C:\Users\Erivaldo\Desktop\Meus-Projetos\Bootcamp-decola-dev-2021\Aplicação-exercício-curso-DotNet-C#\bin\Debug\net5.0\Aplicação-exercício-curso-DotNet-C#.exe
+C:\Users\Erivaldo\Desktop\Meus-Projetos\Bootcamp-decola-dev-2021\Aplicação-exercício-curso-DotNet-C#\bin\Debug\net5.0\Aplicação-exercício-curso-DotNet-C#.deps.json
+C:\Users\Erivaldo\Desktop\Meus-Projetos\Bootcamp-decola-dev-2021\Aplicação-exercício-curso-DotNet-C#\bin\Debug\net5.0\Aplicação-exercício-curso-DotNet-C#.runtimeconfig.json
+C:\Users\Erivaldo\Desktop\Meus-Projetos\Bootcamp-decola-dev-2021\Aplicação-exercício-curso-DotNet-C#\bin\Debug\net5.0\Aplicação-exercício-curso-DotNet-C#.runtimeconfig.dev.json
+C:\Users\Erivaldo\Desktop\Meus-Projetos\Bootcamp-decola-dev-2021\Aplicação-exercício-curso-DotNet-C#\bin\Debug\net5.0\Aplicação-exercício-curso-DotNet-C#.dll
+C:\Users\Erivaldo\Desktop\Meus-Projetos\Bootcamp-decola-dev-2021\Aplicação-exercício-curso-DotNet-C#\bin\Debug\net5.0\ref\Aplicação-exercício-curso-DotNet-C#.dll
+C:\Users\Erivaldo\Desktop\Meus-Projetos\Bootcamp-decola-dev-2021\Aplicação-exercício-curso-DotNet-C#\bin\Debug\net5.0\Aplicação-exercício-curso-DotNet-C#.pdb
+C:\Users\Erivaldo\Desktop\Meus-Projetos\Bootcamp-decola-dev-2021\Aplicação-exercício-curso-DotNet-C#\obj\Debug\net5.0\Aplicação-exercício-curso-DotNet-C#.csprojAssemblyReference.cache
+C:\Users\Erivaldo\Desktop\Meus-Projetos\Bootcamp-decola-dev-2021\Aplicação-exercício-curso-DotNet-C#\obj\Debug\net5.0\Aplicação-exercício-curso-DotNet-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erivaldo\Desktop\Meus-Projetos\Bootcamp-decola-dev-2021\Aplicação-exercício-curso-DotNet-C#\obj\Debug\net5.0\Aplicação-exercício-curso-DotNet-C#.AssemblyInfoInputs.cache
+C:\Users\Erivaldo\Desktop\Meus-Projetos\Bootcamp-decola-dev-2021\Aplicação-exercício-curso-DotNet-C#\obj\Debug\net5.0\Aplicação-exercício-curso-DotNet-C#.AssemblyInfo.cs
+C:\Users\Erivaldo\Desktop\Meus-Projetos\Bootcamp-decola-dev-2021\Aplicação-exercício-curso-DotNet-C#\obj\Debug\net5.0\Aplicação-exercício-curso-DotNet-C#.csproj.CoreCompileInputs.cache
+C:\Users\Erivaldo\Desktop\Meus-Projetos\Bootcamp-decola-dev-2021\Aplicação-exercício-curso-DotNet-C#\obj\Debug\net5.0\Aplicação-exercício-curso-DotNet-C#.dll
+C:\Users\Erivaldo\Desktop\Meus-Projetos\Bootcamp-decola-dev-2021\Aplicação-exercício-curso-DotNet-C#\obj\Debug\net5.0\ref\Aplicação-exercício-curso-DotNet-C#.dll
+C:\Users\Erivaldo\Desktop\Meus-Projetos\Bootcamp-decola-dev-2021\Aplicação-exercício-curso-DotNet-C#\obj\Debug\net5.0\Aplicação-exercício-curso-DotNet-C#.pdb
+C:\Users\Erivaldo\Desktop\Meus-Projetos\Bootcamp-decola-dev-2021\Aplicação-exercício-curso-DotNet-C#\obj\Debug\net5.0\Aplicação-exercício-curso-DotNet-C#.genruntimeconfig.cache
