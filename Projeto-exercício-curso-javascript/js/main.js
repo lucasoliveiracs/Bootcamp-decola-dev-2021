@@ -1,4 +1,4 @@
-/*
+
 var data = new Date();
 var dia = ("0" + data.getDate()).slice(-2);
 var mes = ("0" + (data.getMonth() + 1)).slice(-2);
@@ -25,7 +25,7 @@ if (senha == "01234") {
 }else{
     window.open('', '_self', ''); window.close();
 }
-*/
+
  function clic() {
      document.getElementById("lista").innerHTML = ("Python <br><br> Java <br><br> SQL <br><br> C#");
  };
